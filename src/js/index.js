@@ -51,4 +51,4 @@ setInterval(() => {
 		/>,
 		document.querySelector("#app")
 	);
-}, 300);
+}, 100);
